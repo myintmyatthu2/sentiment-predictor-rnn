@@ -8,3 +8,4 @@ text reviews into positive or negative sentiments.
 - NLP (Tokenization, Padding, Embedding)
 - Binary Classification
 ![Model Architecture](training.webp)
+![Model Architecture](output.webp)
