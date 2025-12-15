@@ -1,2 +1,3 @@
-# sentiment-predictor-rnn
-A sentiment analysis model using NLP, word embeddings, and SimpleRNN to classify text reviews as positive or negative.
+This project is a Sentiment Analysis system built using TensorFlow and Keras.
+It uses text preprocessing, word embeddings, and a SimpleRNN model to classify
+text reviews into positive or negative sentiments.
