@@ -7,3 +7,4 @@ text reviews into positive or negative sentiments.
 - SimpleRNN
 - NLP (Tokenization, Padding, Embedding)
 - Binary Classification
+![Model Architecture](images/model_architecture.png)
